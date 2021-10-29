@@ -64,8 +64,8 @@ end
 
 manager.verifiedHashes = {}
 
-local updateCheckUrl = 'https://raw.githubusercontent.com/griffi-gh/voxelman/main/LATEST'
-local updateDownloadUrl = 'https://raw.githubusercontent.com/griffi-gh/voxelman/main/autorun.lua'
+local updateCheckUrl = 'https://raw.githubusercontent.com/BomberPlayz/voxelman/main/LATEST'
+local updateDownloadUrl = 'https://raw.githubusercontent.com/BomberPlayz/voxelman/main/autorun.lua'
 local verifiedHashesUrl = 'https://pastebin.com/raw/ucag570u'
 
 local verifiedHashesReqm,updateChkReq
